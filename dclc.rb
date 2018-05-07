@@ -1,8 +1,8 @@
 class Dclc < Formula
   desc "DCLC is a C version of DCL, a drawing library useful for planetary and Earth sciences. This library includes graphical, character processing, and mathematical libraries."
   homepage "http://www.gfd-dennou.org/library/dcl/"
-  url "http://www.gfd-dennou.org/library/dcl/dcl-7.2.3-C.tar.gz"
-  sha256 "cdabede9ed4ff8ded349c8f6d35c036191935d004e7c1fee4b6e5cc842eaba25"
+  url "http://www.gfd-dennou.org/library/dcl/dcl-7.1.1-C.tar.gz"
+  sha256 "5d7e684c0de5d70730a549da6173112ad6d9c0ffffd958ce313685858f59dc1d"
   depends_on "gtk+"
   depends_on "pkg-config"
 
