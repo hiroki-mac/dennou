@@ -1,4 +1,4 @@
-class C-DCL < Formula
+class CDCL < Formula
   desc "C-DCL is a C version of DCL, a drawing library useful for planetary and Earth sciences. This library includes graphical, character processing, and mathematical libraries."
   homepage "http://www.gfd-dennou.org/library/dcl/"
   url "http://www.gfd-dennou.org/library/dcl/dcl-6.0.3-C.tar.gz"
